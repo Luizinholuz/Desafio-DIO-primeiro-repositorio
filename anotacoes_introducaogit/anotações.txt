@@ -1,0 +1,24 @@
+GUI - Grafic User Interface
+CLI - Command Line Interface
+
+Comandos WIN
+dir
+cd
+cls
+TAB (auto completar)
+mkdir
+echo
+del
+rmdir /s /q
+
+Comandos LINUX
+ls
+cd
+clear (ctrl L)
+Tab (auto completar)
+mkdir
+echo
+rm -rf
+
+CRIAR CHAVE SSH GITHUB
+ssh -keygen -t ed25519 -c email
