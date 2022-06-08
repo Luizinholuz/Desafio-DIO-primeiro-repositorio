@@ -22,3 +22,7 @@ rm -rf
 
 CRIAR CHAVE SSH GITHUB
 ssh -keygen -t ed25519 -c email
+
+Comandos
+git commit -m "descrição"
+git push origin main
